@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\AndroidStudioProjects\\DiceRoller\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DiceRoller\\app\\src\\main\\res\\values-night\\strings.xml",
+                    "from": {
+                        "startLines": "-1,4,-1",
+                        "startColumns": "-1,4,-1",
+                        "startOffsets": "-1,130,-1",
+                        "endColumns": "-1,71,-1",
+                        "endOffsets": "-1,197,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "100,133,205",
+                        "endColumns": "32,71,37",
+                        "endOffsets": "128,200,238"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\0aa09122d9eb272ea1237ac366fa31a3\\material-1.2.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,42,43,44,45,46,47,48",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1476,1564,1688,1790,1892,2008,2110,2224,2352,2468,2590,2726,2846,2980,3100,3212,3427,3565,3689,3819,3941,4079,4195",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,137,123,129,121,137,115,119",
+                        "endOffsets": "1559,1683,1785,1887,2003,2105,2219,2347,2463,2585,2721,2841,2975,3095,3207,3333,3560,3684,3814,3936,4074,4190,4310"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DiceRoller\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "875",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "1471"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\147a6e7f9f7fc8aa5d9c7d6dea93c4ed\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,41",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "243,313,397,481,577,679,781,3338",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "308,392,476,572,674,776,870,3422"
+                    }
+                }
+            ]
+        }
+    ]
+}
